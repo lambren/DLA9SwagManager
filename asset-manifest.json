@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DLA9SwagManager/static/css/main.990482f4.chunk.css",
+    "main.js": "/DLA9SwagManager/static/js/main.25669fab.chunk.js",
+    "main.js.map": "/DLA9SwagManager/static/js/main.25669fab.chunk.js.map",
+    "runtime-main.js": "/DLA9SwagManager/static/js/runtime-main.2ffdbb08.js",
+    "runtime-main.js.map": "/DLA9SwagManager/static/js/runtime-main.2ffdbb08.js.map",
+    "static/js/2.7c84e84e.chunk.js": "/DLA9SwagManager/static/js/2.7c84e84e.chunk.js",
+    "static/js/2.7c84e84e.chunk.js.map": "/DLA9SwagManager/static/js/2.7c84e84e.chunk.js.map",
+    "index.html": "/DLA9SwagManager/index.html",
+    "precache-manifest.3bb55b01e9a6312baf298e2831de02e9.js": "/DLA9SwagManager/precache-manifest.3bb55b01e9a6312baf298e2831de02e9.js",
+    "service-worker.js": "/DLA9SwagManager/service-worker.js",
+    "static/css/main.990482f4.chunk.css.map": "/DLA9SwagManager/static/css/main.990482f4.chunk.css.map",
+    "static/js/2.7c84e84e.chunk.js.LICENSE.txt": "/DLA9SwagManager/static/js/2.7c84e84e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ffdbb08.js",
+    "static/js/2.7c84e84e.chunk.js",
+    "static/css/main.990482f4.chunk.css",
+    "static/js/main.25669fab.chunk.js"
+  ]
+}
